@@ -1,0 +1,16 @@
+{
+  "name": "number-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.0"
+  }
+}
